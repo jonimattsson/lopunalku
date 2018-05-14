@@ -4,4 +4,4 @@
 
 /etc/skel/public_html/index.php:
   file.managed:
-    - source: salt://nginx/index.php
+    - source: salt://index/index.php
